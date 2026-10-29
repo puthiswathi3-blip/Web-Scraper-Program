@@ -1,0 +1,12 @@
+Sample Output:
+
+===== Web Scraping Program =====
+Enter a permitted webpage URL: https://example.com
+
+Extracted Data:
+1. Heading: Example Heading
+   Link: https://example.com/page
+
+Data saved successfully to scraped_data.csv
+
+Total headings extracted: 1
